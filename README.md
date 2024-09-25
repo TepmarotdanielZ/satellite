@@ -2,4 +2,5 @@
 
 ## MAIN BOARD SATELLITE
 
+![satellite1](https://github.com/user-attachments/assets/e76a4134-59da-458b-91be-4d8439dae7a0)
 
