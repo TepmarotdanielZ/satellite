@@ -1,3 +1,7 @@
+**What Is a Satellite?**
+
+A satellite is anything that orbits a planet or a star. Earth is a satellite orbiting the Sun. The Moon is a satellite orbiting Earth. When you launch a spacecraft into orbit around Earth, that’s a satellite, too. This kind of satellite can help us learn about Earth and the universe.
+
 ![image](https://github.com/user-attachments/assets/1674c9f8-b8b4-4651-be57-1c6f04ab11cd)
 
 ## MAIN BOARD SATELLITE
